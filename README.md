@@ -54,9 +54,6 @@ The dataset used contains:
 - Sales, profit, and quantity metrics
 - Regional and state-level data
 
-File: [`data/sales_data.csv`](data/sales_data.csv)
-
----
 
 ## 🧰 Tools Used
 - **Tableau Public / Tableau Desktop** – for visualization  
@@ -65,11 +62,6 @@ File: [`data/sales_data.csv`](data/sales_data.csv)
 
 ---
 
-## 🔗 (Optional) Tableau Public Link
-If published, you can add the live dashboard link here:  
-[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/your-dashboard-link)
-
----
 
 ## 🏁 Key Insights
 - Technology products have the highest sales and profit margins.  
